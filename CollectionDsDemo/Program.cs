@@ -12,6 +12,9 @@ namespace CollectionDemo
             names.Add("Grace Hopper");
             names.Add("Jean Bartik");
 
+            // hello
+
+
             DisplayNames(names);
             Console.WriteLine("Count of list: " + names.Count);
             Console.WriteLine("Capacity of list: " + names.Capacity);
